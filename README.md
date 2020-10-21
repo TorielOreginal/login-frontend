@@ -1,2 +1,1 @@
-# login-frontend
-Just a login page but only front-end
+# Only a front-end training :)
